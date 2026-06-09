@@ -1,0 +1,9 @@
+.aws/
+credentials
+config
+*.pem
+*.pkcs12
+*.key
+*.secret
+.DS_Store
+Thumbs.db
